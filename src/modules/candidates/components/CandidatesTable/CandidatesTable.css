@@ -1,0 +1,32 @@
+.candidates-table-page {
+  font-size: 16px;
+}
+
+.candidates-table-page__controls {
+  padding: 8px 16px;
+}
+
+.candidates-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.candidates-table td,
+.candidates-table th {
+  padding: 4px 8px;
+}
+
+.candidates-table td:first-of-type,
+.candidates-table th:first-of-type {
+  padding-left: 16px;
+}
+
+.candidates-table__header {
+  font-weight: bold;
+  text-align: left;
+  background: #dfdfdf;
+}
+
+.candidates-table tr:nth-child(2n) {
+  background: #eee;
+}

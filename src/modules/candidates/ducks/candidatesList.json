@@ -1,0 +1,72 @@
+[
+  {
+    "id": "121",
+    "name": "John Федор",
+    "role": "Engineer",
+    "connectedOn": "2014-01-01",
+    "status": "Screen"
+  },
+  {
+    "id": "122",
+    "name": "Иван Синицын",
+    "role": "Sales",
+    "connectedOn": "2017-01-02",
+    "status": "Scheduled"
+  },
+  {
+    "id": "123",
+    "name": "Mark Morton",
+    "role": "Customer support",
+    "connectedOn": "1999-09-12",
+    "status": "Explored"
+  },
+  {
+    "id": "124",
+    "name": "Ramjesh Kutrapali",
+    "role": "Manager",
+    "connectedOn": "2013-05-08",
+    "status": "Hired"
+  },
+  {
+    "id": "125",
+    "name": "Svetlana Loboda",
+    "role": "Engineer",
+    "connectedOn": "2018-12-12",
+    "status": "Screen"
+  },
+  {
+    "id": "126",
+    "name": "Mark III",
+    "role": "Sales",
+    "connectedOn": "2017-03-04",
+    "status": "Scheduled"
+  },
+  {
+    "id": "127",
+    "name": "Ololoev Bogdan",
+    "role": "Customer support",
+    "connectedOn": "2000-01-01",
+    "status": "Explored"
+  },
+  {
+    "id": "128",
+    "name": "Надежда Кадышева",
+    "role": "Sales",
+    "connectedOn": "1976-03-16",
+    "status": "Hired"
+  },
+  {
+    "id": "129",
+    "name": "Linus Torvald",
+    "role": "Engineer",
+    "connectedOn": "2016-05-09",
+    "status": "Screen"
+  },
+  {
+    "id": "130",
+    "name": "Артемий Татьянович",
+    "role": "Manager",
+    "connectedOn": "2007-11-27",
+    "status": "Scheduled"
+  }
+]

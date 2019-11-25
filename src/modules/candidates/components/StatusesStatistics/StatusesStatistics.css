@@ -1,0 +1,17 @@
+.statuses-statistics {
+  list-style-type: none;
+  display: flex;
+  margin: 0 0 16px 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+.statuses-statistics__item {
+  margin: 0 16px 0 0;
+}
+
+.statuses-statistics__number {
+  display: inline-block;
+  min-width: 12px;
+  font-weight: bold;
+}
